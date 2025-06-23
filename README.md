@@ -30,5 +30,5 @@ A Streamlit-based web application that predicts whether a breast tumor is **beni
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/breast-cancer-prediction.git
-cd breast-cancer-prediction
+git clone https://github.com/yourusername/breast_cancer_detection.git
+cd breast_cancer_detecction
